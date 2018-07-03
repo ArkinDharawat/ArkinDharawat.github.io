@@ -11,10 +11,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/v4-shims.css">
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+
+
+		<link href="fontawesome-free-5.1.0-web/css/fontawesome.css" rel="stylesheet">
+ 		<link href="fontawesome-free-5.1.0-web/css/brands.css" rel="stylesheet">
+ 		<link href="fontawesome-free-5.1.0-web/css/solid.css" rel="stylesheet">
 	</head>
 	<body class="landing">
 		<div id="page-wrapper">
@@ -95,32 +96,32 @@
 						<div class="box alt">
 							<div class="row uniform">
 								<section class="4u 6u(medium) 12u$(xsmall)">
-									<span class="icon alt major fa-slack"></span>
+								 <i class="fab fa-slack fa-w-14 fa-5x"></i> <!-- uses solid style -->
 									<h3>Slack Summarizer</h3>
 									<p>A Slack-bot that summarizes chats in various channels. Implemented a modified Text-rank with weights taken from concept extraction for summarization Numpy for matrix multiplication and NetworkX for graphs and the famous Pagerank Algorithm</p>
 								</section>
 								<section class="4u 6u$(medium) 12u$(xsmall)">
-									<span class="icon alt major fa fa-vidoe"></span>
+									<i class="fas fa-video fa-w-14 fa-5x"></i>
 									<h3>Web of Videos</h3>
 									<p>A project that allows the user to connect and gather information from scattered videos across the web. For this, I specifically focused on linking the videos from the CS410 on Coursera. Used pandas for data operations and NLTK for implementing similarity algoritms</p>
 								</section>
 								<section class="4u$ 6u(medium) 12u$(xsmall)">
-									<span class="icon alt major fa-usd"></span>
+									 <i class="fas fa-dollar-sign fa-w-14 fa-5x"></i>
 									<h3>Senti-Miner</h3>
 									<p>The project involved analyzing Twitter data to predict their stock behavior. Used tweepy to pull Twitter data, affine for sentiment analysis and scikit-learn for machine learning.</p>
 								</section>
 								<section class="4u 6u$(medium) 12u$(xsmall)">
-									<span class="icon alt major fa-eye"></span>
+									<i class="fas fa-eye fa-w-14 fa-5x"></i>
 									<h3>Barley Watch</h3>
 									<p>A Rasberry-Pi module to continously watch barley crops. Numpy and OpenCV to classify seed images. Video feed used to predict their ripeness and look for crop diseases.</p>
 								</section>
 								<section class="4u 6u(medium) 12u$(xsmall)">
-									<span class="icon alt major fa-comments"></span>
+								<i class="fas fa-comments fa-w-14 fa-5x"></i>
 									<h3>Ask Eliza</h3>
 									<p>An Amazon Alexa skill the emulates a psychotherapist, Eliza. Generated personal insights from the emulated chat sessions using Aylien and IBM’s Watson API. Utilized Intel’s Edison to measure heart rate and body temperature. Deployed to Skill Store.</p>
 								</section>
 								<section class="4u$ 6u$(medium) 12u$(xsmall)">
-									<span class="icon alt major fa-lock"></span>
+									<i class="fas fa-lock fa-w-14 fa-5x"></i>
 									<h3>Sazme</h3>
 									<p>Sazme.com is a secure social network for patients of mental health. Built it from ground up single handedly using MEAN stack. Used Twilio fro authentication. Implemented Google’s Perspective API for removing negative comments.</p>
 								</section>
@@ -137,11 +138,12 @@
 			<!-- Footer -->
 				<footer id="footer">
 					<ul class="icons">
-						<li><a href="https://twitter.com/arkinrd" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="https://www.linkedin.com/in/arkin-dharawat-8b5759122/" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
-						<li><a href="https://medium.com/@arkindharawat" class="icon alt fa-medium"><span class="label">Medium</span></a></li>
-						<li><a href="https://github.com/ArkinDharawat" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
-						<li><a href="mailto:arkinrd2@illinois.edu" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
+
+						<li><a href="https://twitter.com/arkinrd"><span class="label"><i class="fab fa-twitter-square fa-w-14 fa-2x"></i></span></a></li>
+						<li><a href="https://www.linkedin.com/in/arkin-dharawat-8b5759122/"><span class="label"><i class="fab fa-linkedin-square fa-w-14 fa-2x"></i></span></a></li>
+						<li><a href="https://medium.com/@arkindharawat"><span class="label"><i class="fab fa-medium fa-w-14 fa-2x"></i></span></a></li>
+						<li><a href="https://github.com/ArkinDharawat"><span class="label"><i class="fab fa-github-square fa-w-14 fa-2x"></i></span></a></li>
+						<li><a href="mailto:arkinrd2@illinois.edu"><span class="label"><i class="fa fa-envelope fa-w-14 fa-2x"></i></span></a></li>
 					</ul>
 					<ul class="copyright">
 						<li>&copy; Arkin's homepage All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
