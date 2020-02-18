@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arkin Dharawat</title>
+    <link>http://arkindharawat.me/</link>
+    <description>Recent content on Arkin Dharawat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Feb 2020 11:20:59 -0800</lastBuildDate>
+    
+	<atom:link href="http://arkindharawat.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>http://arkindharawat.me/projects/</link>
+      <pubDate>Sun, 16 Feb 2020 11:20:59 -0800</pubDate>
+      
+      <guid>http://arkindharawat.me/projects/</guid>
+      <description>I 💜 building cool stuff 👨‍💻 💻 Here are some of my side projects, class projects and 3am-ideas   Domain Question Linking using BERT
+ Using BERT to perform question-question linking by ranking questions from QA datasets of Stack Overflow Questions. Pre-trained BERT to solve the out-of-vocabulary problem on the programming domain and then fine-tuned using a pairwise ranking loss
+   Senior Thesis: Deep Patient for Summarizing Health Records</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://arkindharawat.me/contact/</link>
+      <pubDate>Sun, 16 Feb 2020 11:15:31 -0800</pubDate>
+      
+      <guid>http://arkindharawat.me/contact/</guid>
+      <description>Email: arkin.dharawt@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Hi,</title>
+      <link>http://arkindharawat.me/about/</link>
+      <pubDate>Sun, 16 Feb 2020 10:58:02 -0800</pubDate>
+      
+      <guid>http://arkindharawat.me/about/</guid>
+      <description>I&amp;rsquo;m Arkin Dharawat, a Mathematics and Computer Science graduate from UIUC.
+My interests include Machine Learning, Natural Language Processing and Python.
+You can view my resume here
+Love to read about AI? You can checkout my Medium blog where I ramble about Bots, Machine learning and other technologies(like Blockchain)
+I&amp;rsquo;ve also written articles for the UIUC startup community like this one!</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://arkindharawat.me/posts/my-first-post/</link>
+      <pubDate>Sun, 16 Feb 2020 07:47:57 -0800</pubDate>
+      
+      <guid>http://arkindharawat.me/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
