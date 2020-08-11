@@ -1,4 +1,5 @@
-baseurl = "https://arkindharawat.github.io/"
+# baseurl = "https://arkindharawat.github.io/"
+baseurl = "http://localhost:1313"
 title = "Arkin Dharawat"
 
 theme = "hugo-coder"

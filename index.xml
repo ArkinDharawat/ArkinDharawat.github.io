@@ -2,13 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arkin Dharawat</title>
-    <link>https://arkindharawat.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Arkin Dharawat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 16 Feb 2020 11:20:59 -0800</lastBuildDate>
     
-	<atom:link href="https://arkindharawat.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sun, 16 Feb 2020 11:20:59 -0800</pubDate>
+      
+      <guid>http://localhost:1313/projects/</guid>
+      <description>I 💜 building cool stuff 👨‍💻 💻 Here are some of my side projects, class projects and 3am-ideas   Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID19 misinformation.
+ A paper that introduces the novel dataset Covid-HeRA (Health Risk Assessment). This work studies the severity of each misinformation-related social media post, i.e., how harmful a message believed by the audience can be and what type of signals can be used to discover high malicious fake news and detect refuted claims.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sun, 16 Feb 2020 11:15:31 -0800</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Email: arkin.dharawat@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Hi,</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 16 Feb 2020 10:58:02 -0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>I&amp;rsquo;m Arkin Dharawat, a Mathematics and Computer Science graduate from UIUC.
+My interests include Machine Learning, Natural Language Processing and Big Data.
+You can view my resume here
+Love to read about AI? You can checkout my Medium blog where I ramble about Bots, Machine learning and other technologies(like Blockchain)
+I&amp;rsquo;ve also written articles for the UIUC startup community like this one!</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 16 Feb 2020 07:47:57 -0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

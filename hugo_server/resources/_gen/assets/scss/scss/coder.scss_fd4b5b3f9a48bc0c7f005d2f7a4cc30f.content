@@ -184,6 +184,12 @@ figure {
 .fas {
   font-weight: 900; }
 
+img.emoji {
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em; }
+
 .content {
   flex: 1;
   display: flex;
@@ -206,6 +212,10 @@ figure {
       margin: 3.2rem 0; }
       .content article footer .see-also h3 {
         margin: 3.2rem 0; }
+  .content article p {
+    text-align: justify;
+    text-justify: auto;
+    hyphens: auto; }
   .content .post .post-title {
     margin-bottom: .75em; }
   .content .post .post-meta i {
