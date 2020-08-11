@@ -5,7 +5,7 @@ draft: true
 ---
 
 I'm Arkin Dharawat, a Mathematics and Computer Science graduate from UIUC.   
-My interests include Machine Learning, Natural Language Processing and Python.
+My interests include Machine Learning, Natural Language Processing and Big Data.
 
 You can view my resume [here](https://drive.google.com/file/d/1uAMZzTsCflgUQS-XmOwwvsBI5NiClJfb/view)  
 
