@@ -6,8 +6,8 @@ draft: true
 # I 💜 building cool stuff 👨‍💻 💻
 #### Here are some of my side projects, class projects and 3am-ideas
 
-- [Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID19 misinformation.]()
-  > A paper that introduces the novel dataset Covid-HeRA (Health Risk Assessment). This work studies the severity of each misinformation-related social media post, i.e., how harmful a message believed by the audience can be and what type of signals can be used to discover high malicious fake news and detect refuted claims.[poster](ttps://uofi.app.box.com/v/CovidHeRAmisinformation)
+<!-- - [Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID19 misinformation.]()
+  > A paper that introduces the novel dataset Covid-HeRA (Health Risk Assessment). This work studies the severity of each misinformation-related social media post, i.e., how harmful a message believed by the audience can be and what type of signals can be used to discover high malicious fake news and detect refuted claims.[poster](ttps://uofi.app.box.com/v/CovidHeRAmisinformation) -->
 
 - [Domain Question Linking using BERT](https://drive.google.com/file/d/1YdtgXLUIQiti5x2YesIqlCP6slX5NGqQ/view)
   > Using BERT to perform question-question linking by ranking questions from QA datasets of Stack Overflow Questions. Pre-trained BERT to solve the out-of-vocabulary problem on the programming domain and then fine-tuned using a pairwise ranking loss

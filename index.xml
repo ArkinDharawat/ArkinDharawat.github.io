@@ -17,8 +17,9 @@
       <pubDate>Sun, 16 Feb 2020 11:20:59 -0800</pubDate>
       
       <guid>https://arkindharawat.github.io/projects/</guid>
-      <description>I 💜 building cool stuff 👨‍💻 💻 Here are some of my side projects, class projects and 3am-ideas   Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID19 misinformation.
- A paper that introduces the novel dataset Covid-HeRA (Health Risk Assessment). This work studies the severity of each misinformation-related social media post, i.e., how harmful a message believed by the audience can be and what type of signals can be used to discover high malicious fake news and detect refuted claims.</description>
+      <description>I 💜 building cool stuff 👨‍💻 💻 Here are some of my side projects, class projects and 3am-ideas   Domain Question Linking using BERT
+ Using BERT to perform question-question linking by ranking questions from QA datasets of Stack Overflow Questions. Pre-trained BERT to solve the out-of-vocabulary problem on the programming domain and then fine-tuned using a pairwise ranking loss
+   Senior Thesis: Deep Patient for Summarizing Health Records</description>
     </item>
     
     <item>
