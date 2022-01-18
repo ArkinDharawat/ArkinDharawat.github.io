@@ -4,7 +4,8 @@ date: 2020-02-16T10:58:02-08:00
 draft: true
 ---
 
-I'm Arkin Dharawat, a Computer Science Master's student at UMass Amherst. I graduated from UIUC with a degree in Math and Computer Science in 12/19. 
+I'm Arkin Dharawat, a Computer Science Master's student at UMass Amherst. I graduated from UIUC with a degree in Math and Computer Science in 12/19. I am currently working as a part of the UMass team in the [AlexaPrize TaskBot Challenge](https://developer.amazon.com/alexaprize/challenges/current-challenge/taskbot/teams/maruna).
+
 My interests include (but are not limited too!) Natural Language Processing, Big Data and Machine Learning Infrastructure.
 
 You can view my resume [here](https://drive.google.com/file/d/1eGTAfzbeq45V2k37HUmQxS7IwpX_Va9U/view?usp=sharing)  
