@@ -6,14 +6,8 @@ draft: true
 # I 💜 building cool stuff 👨‍💻 💻
 #### Here are some of my side projects, class projects and other works
 
-- [Improving Retrieval in Task-Oriented Dialogue Systems](https://drive.google.com/file/d/1aKt7WHX7aeGwhKq5vdcbt_TmoJfsn22f/view)
-  > Master's project report discussing my work as a part of UMass's team in the AlexaPrize Taskbot challenge. The goal was to build a mixed-initiative conversational agent (MarunaBot) to assists customers with cooking and D.I.Y recipes. Was responsible for implementing several retrieval techniques to present recipes and tasks based on user dialogue. Techniques I implemented involved question answering, asking clarfying questions and facet extraction etc. [AlexaPrize Proceedings](https://www.amazon.science/alexa-prize/proceedings/maruna-bot-an-extensible-retrieval-focused-framework-for-task-oriented-dialogues)
-
-
-
-- [Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID-19 misinformation.](https://ojs.aaai.org/index.php/ICWSM/article/view/19372/19144)
-  > A paper that introduces the novel dataset Covid-HeRA (Covid Health Risk Assessment). This work studies the severity of each misinformation-related social media post, i.e., how harmful a message believed by the audience can be and what type of signals can be used to discover high malicious fake news and detect refuted claims. Published in [ICSWM'22](https://ojs.aaai.org/index.php/ICWSM/article/view/19372). 
-  <!-- [Code](https://github.com/TIMAN-group/covid19_misinformation) -->
+- [Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID-19 misinformation.](https://arxiv.org/pdf/2010.08743.pdf)
+  > A paper that introduces the novel dataset Covid-HeRA (Covid Health Risk Assessment). This work studies the severity of each misinformation-related social media post, i.e., how harmful a message believed by the audience can be and what type of signals can be used to discover high malicious fake news and detect refuted claims. [Code](https://github.com/TIMAN-group/covid19_misinformation)
 
 <!-- - [Domain Question Linking using BERT](https://drive.google.com/file/d/1YdtgXLUIQiti5x2YesIqlCP6slX5NGqQ/view)
   > Using BERT to perform question-question linking by ranking questions from QA datasets of Stack Overflow Questions. Pre-trained BERT to solve the out-of-vocabulary problem on the programming domain and then fine-tuned using a pairwise ranking loss -->
