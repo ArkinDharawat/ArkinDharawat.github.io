@@ -4,7 +4,10 @@ date: 2020-02-16T11:20:59-08:00
 draft: true
 ---
 # I 💜 building cool stuff 👨‍💻 💻
-#### Here are some of my side projects, class projects and other works
+#### Here are some of my side projects, class projects and others.
+
+- [Improving Retrieval in Task-Oriented Dialogue Systems](https://drive.google.com/file/d/1aKt7WHX7aeGwhKq5vdcbt_TmoJfsn22f/view)
+  > Report discussing work done as part of the UMass's CIIR team in the AlexaPrize Taskbot competition (Maruna Bot). The goal of the competition was to build a multi-modal agent that would assist customers in completing tasks requiring multiple steps and decisions. Worked on implementing several retrieval techniques such as asking clarifying questions, facet extraction and re-ranking to retrieve results given user query. [Proceedings'22](https://www.amazon.science/alexa-prize/proceedings/maruna-bot-an-extensible-retrieval-focused-framework-for-task-oriented-dialogues)
 
 - [Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID-19 misinformation.](https://ojs.aaai.org/index.php/ICWSM/article/view/19372/19144)
   > A paper that introduces the novel dataset Covid-HeRA (Covid Health Risk Assessment). This work studies the severity of each misinformation-related social media post, i.e., how harmful a message believed by the audience can be and what type of signals can be used to discover high malicious fake news and detect refuted claims. [ICWSM'22](https://ojs.aaai.org/index.php/ICWSM/article/view/19372)
@@ -12,8 +15,8 @@ draft: true
 <!-- - [Domain Question Linking using BERT](https://drive.google.com/file/d/1YdtgXLUIQiti5x2YesIqlCP6slX5NGqQ/view)
   > Using BERT to perform question-question linking by ranking questions from QA datasets of Stack Overflow Questions. Pre-trained BERT to solve the out-of-vocabulary problem on the programming domain and then fine-tuned using a pairwise ranking loss -->
 
-- [Scientific Paper Recommendation System](https://github.com/ArkinDharawat/JournalTopicModel)  
-   > A recommendation system for scientific papers using databases and unsupervised topic models. It uses Neo4J and SQL to store and the data and Gensim and spaCy to parse and build the LDA topic model.  
+<!-- - [Scientific Paper Recommendation System](https://github.com/ArkinDharawat/JournalTopicModel)  
+   > A recommendation system for scientific papers using databases and unsupervised topic models. It uses Neo4J and SQL to store and the data and Gensim and spaCy to parse and build the LDA topic model.   -->
 
 - [Senior Thesis: Deep Patient for Summarizing Health Records](https://drive.google.com/file/d/1HrAx5dOmI2bOh6GzPWHOI_iN-IM36UIZ/view)
   > Recreated the Deep-Patient architecture that generates an embedding for EHRs by using stacked deonising autoencoders. This out-performs other predictions based on raw-data and other dimensionality-reduction methods.
