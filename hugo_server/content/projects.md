@@ -6,13 +6,13 @@ draft: true
 # I 💜 building cool stuff 👨‍💻 💻
 #### Here are some of my projects & publications
 
-- [Revisiting Open Domain Query Facet Extraction and Generation|ICTIR'22](https://dl.acm.org/doi/abs/10.1145/3539813.3545138)
+- [Revisiting Open Domain Query Facet Extraction and Generation| ICTIR'22](https://dl.acm.org/doi/abs/10.1145/3539813.3545138)
   >This paper discusses various approaches to open domain query facet extraction and generation including sequence labeling and extreme multi-label classification. Proposed methods outperform state-of-the-art baselines in both precision and recall, and a toolkit named Faspect is released to include various model implementations for this task.
 
 - [Maruna Bot: An extensible retrieval-focused framework for task-oriented dialogues](https://assets.amazon.science/b9/c3/1ca90a9c4206b5f461f736a22152/maruna-bot-an-extensible-retrieval-focused-framework-for-task-oriented-dialogues.pdf)
   > This report presents the first iteration of Maruna Bot, a Task-Oriented Dialogue System (TODS) that assists people in cooking or Do-It-Yourself (DIY) tasks using either a speech-only or multimodal (speech and screen) interface. This work was done as part of the Alexa Prize Taskbot challenge Proceedings 2021.
 
-- [Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID-19 misinformation|ICWSM'22](https://ojs.aaai.org/index.php/ICWSM/article/view/19372)
+- [Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID-19 misinformation| ICWSM'22](https://ojs.aaai.org/index.php/ICWSM/article/view/19372)
   > This paper introduces the novel dataset Covid-HeRA (Covid Health Risk Assessment). This work studies the severity of each misinformation-related social media post, i.e., how harmful a message believed by the audience can be and what type of signals can be used to discover high malicious fake news and detect refuted claims. 
 
 <!-- - [Domain Question Linking using BERT](https://drive.google.com/file/d/1YdtgXLUIQiti5x2YesIqlCP6slX5NGqQ/view)
