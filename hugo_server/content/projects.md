@@ -4,13 +4,16 @@ date: 2020-02-16T11:20:59-08:00
 draft: true
 ---
 # I 💜 building cool stuff 👨‍💻 💻
-#### Here are some of my side projects, class projects and others.
+#### Here are some of my projects & publications
 
-- [Improving Retrieval in Task-Oriented Dialogue Systems](https://drive.google.com/file/d/1aKt7WHX7aeGwhKq5vdcbt_TmoJfsn22f/view)
-  > Report discussing work done as part of the UMass's CIIR team in the AlexaPrize Taskbot competition (Maruna Bot). The goal of the competition was to build a multi-modal agent that would assist customers in completing tasks requiring multiple steps and decisions. Worked on implementing several retrieval techniques such as asking clarifying questions, facet extraction and re-ranking to retrieve results given user query. [Proceedings'22](https://www.amazon.science/alexa-prize/proceedings/maruna-bot-an-extensible-retrieval-focused-framework-for-task-oriented-dialogues)
+- [Revisiting Open Domain Query Facet Extraction and Generation]
+  >This paper discusses various approaches to open domain query facet extraction and generation including sequence labeling and extreme multi-label classification. Proposed methods outperform state-of-the-art baselines in both precision and recall, and a toolkit named Faspect is released to include various model implementations for this task. [ICTIR'22](https://dl.acm.org/doi/abs/10.1145/3539813.3545138)
 
-- [Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID-19 misinformation.](https://ojs.aaai.org/index.php/ICWSM/article/view/19372/19144)
-  > A paper that introduces the novel dataset Covid-HeRA (Covid Health Risk Assessment). This work studies the severity of each misinformation-related social media post, i.e., how harmful a message believed by the audience can be and what type of signals can be used to discover high malicious fake news and detect refuted claims. [ICWSM'22](https://ojs.aaai.org/index.php/ICWSM/article/view/19372)
+- [Maruna Bot: An extensible retrieval-focused framework for task-oriented dialogues]
+  > This report presents the first iteration of Maruna Bot, a Task-Oriented Dialogue System (TODS) that assists people in cooking or Do-It-Yourself (DIY) tasks using either a speech-only or multimodal (speech and screen) interface. This work was done as part of the Alexa Prize Taskbot challenge. [Proceedings'21](https://assets.amazon.science/b9/c3/1ca90a9c4206b5f461f736a22152/maruna-bot-an-extensible-retrieval-focused-framework-for-task-oriented-dialogues.pdf)
+
+- [Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID-19 misinformation.]
+  > This paper introduces the novel dataset Covid-HeRA (Covid Health Risk Assessment). This work studies the severity of each misinformation-related social media post, i.e., how harmful a message believed by the audience can be and what type of signals can be used to discover high malicious fake news and detect refuted claims. [ICWSM'22](https://ojs.aaai.org/index.php/ICWSM/article/view/19372)
 
 <!-- - [Domain Question Linking using BERT](https://drive.google.com/file/d/1YdtgXLUIQiti5x2YesIqlCP6slX5NGqQ/view)
   > Using BERT to perform question-question linking by ranking questions from QA datasets of Stack Overflow Questions. Pre-trained BERT to solve the out-of-vocabulary problem on the programming domain and then fine-tuned using a pairwise ranking loss -->

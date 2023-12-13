@@ -11,6 +11,8 @@ My interests include (but are not limited too!) Natural Language Processing, Big
 
 You can view my resume [here](https://drive.google.com/file/d/1eGTAfzbeq45V2k37HUmQxS7IwpX_Va9U/view?usp=sharing)  
 
-Love to read about AI? You can checkout my [Medium](https://medium.com/@arkindharawat) blog where I ramble about Bots, Machine learning and other technologies(like Blockchain)  
+I love writing about tech! As a student I've written articles for the UIUC startup community like this [one](https://medium.com/@dormroomfund/how-to-start-a-startup-uiuc-40cd679447b0).
 
-I've also written articles for the UIUC startup community like this [one](https://medium.com/@dormroomfund/how-to-start-a-startup-uiuc-40cd679447b0)!
+You can also checkout my [Medium](https://medium.com/@arkindharawat)
+
+
