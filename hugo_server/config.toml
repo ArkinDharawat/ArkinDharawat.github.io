@@ -84,7 +84,7 @@ disqusShortname = "yourdiscussshortname"
     url = "https://medium.com/@arkindharawat"
 [[params.social]]
     name = "GoogleScholar"
-    icon = "fab fa-google-scholar"
+    icon = "fa-brands fa-google-scholar"
     weight = 5
     url = "https://scholar.google.com/citations?hl=en&user=yZriP74AAAAJ"
 
